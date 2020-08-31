@@ -116,3 +116,20 @@ background:#9B9DA3;
     padding: 20em 50em 0em 50em;
     
 }
+
+.first-work {
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.image-margin {
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+}
+.image-column {
+    display: inline;
+    align-content: center;
+}    
+
